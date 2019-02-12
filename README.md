@@ -13,10 +13,10 @@
 
 - Python
 
-  TensorFlow（进行中）
+  [x] TensorFlow
 
 **预支持IDE**
 
-[x]IntelliJ IDEA
+IntelliJ IDEA（进行中）
 
-[x]VS Code
+[x] VS Code
