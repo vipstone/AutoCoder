@@ -20,3 +20,8 @@
 IntelliJ IDEA（进行中）
 
 [x] VS Code
+
+# 技术实现
+
+TensorFlow（Python）
+
